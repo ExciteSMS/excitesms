@@ -52,7 +52,7 @@ Replace `'YOUR_API_KEY'` with your ExciteSMS API key.
 ## Features
 
 - Send SMS messages easily through the ExciteSMS API.
-- Handle API request and response errors gracefully.
+- Handle API requests and response errors gracefully.
 
 ## Troubleshooting
 
@@ -68,7 +68,7 @@ Contributions to this package are welcome. If you find a bug, have suggestions f
 
 ## License
 
-This package is distributed under the MIT License. See the [LICENSE](https://github.com/ExciteSM/excitesms/blob/main/LICENSE) file for more information.
+This package is distributed under the MIT License. See the [LICENSE](https://github.com/ExciteSMS/excitesms/blob/main/LICENSE) file for more information.
 
 ---
 
