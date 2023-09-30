@@ -1,6 +1,6 @@
 name: excitesms
 description: A Flutter package for sending SMS via the ExciteSMS API
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/ExciteSMS/excitesms
 
 environment:

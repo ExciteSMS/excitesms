@@ -12,7 +12,7 @@ To use the **ExciteSMS** package, add it as a dependency in your `pubspec.yaml` 
 dependencies:
   flutter:
     sdk: flutter
-  excitesms: ^1.0.0 # Use the latest version from pub.dev
+  excitesms: ^1.0.1 # Use the latest version from pub.dev
 ```
 
 Then, run `flutter pub get` to fetch the package.
