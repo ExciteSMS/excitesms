@@ -1,7 +1,3 @@
-Certainly, here's a basic template for documenting your Flutter package for the ExciteSMS API:
-
----
-
 # ExciteSMS Flutter Package Documentation
 
 **excite_sms** is a Flutter package that allows you to send SMS messages via the ExciteSMS API. With this package, you can easily integrate SMS sending capabilities into your Flutter applications.
@@ -26,7 +22,7 @@ Then, run `flutter pub get` to fetch the package.
 In your Dart code, import the **excite_sms** package:
 
 ```dart
-import 'package:excite_sms/excite_sms.dart';
+import 'package:excite_sms/excitesms.dart';
 ```
 
 ## Usage
