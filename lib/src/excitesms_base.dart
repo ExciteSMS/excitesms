@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class ExciteSMS {
-  final String baseUrl = 'https://gateway.excitesms.tech/api/v3/sms/send';
+  final String baseUrl = 'https://gateway.excitesms.com/api/v3/sms/send';
   final String apiKey;
 
   ExciteSMS(this.apiKey);
